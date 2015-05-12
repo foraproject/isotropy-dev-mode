@@ -1,7 +1,7 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
     "name": "isotropy-dev-mode",
-    "version": "2.1.2",
+    "version": "2.2.0",
     "description": "Interface for hosting koa server inside the browser.",
     "repository": {
         "type": "git",
@@ -14,6 +14,6 @@
     },
     "devDependencies": {},
     "engines": { "node": ">= 0.11.9" },
-    "keywords": ["serialization"],
+    "keywords": ["koa", "isomorphicjs"],
     "license" : "GPL-3.0+"
 }
